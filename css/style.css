@@ -1,0 +1,47 @@
+/* con este comando se puede poner comentarios en css*/
+
+
+body {
+    
+    margin: auto;
+}
+
+img {
+
+    display: block;
+    margin: auto;
+    font-family: 'pt sans';
+}
+
+h4, h5, p, h3 { 
+    text-align: center;
+    font-family: 'pt sans';
+
+}
+
+.menu, .home, a { 
+
+    text-align: center;
+    font-family: 'pt sans';
+    color: black;
+    text-decoration: none;
+}
+
+a{ 
+    
+    width: 40px;
+    height: 20px;
+    padding: 5px;
+    margin:30px;
+    text-shadow: 2px 5px 20px;
+    text-decoration: underline;
+   
+}
+
+.iniciologo {
+
+    text-align: center;
+}
+
+
+
